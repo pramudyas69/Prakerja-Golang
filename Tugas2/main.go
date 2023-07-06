@@ -31,3 +31,4 @@ func main() {
 
 	fmt.Printf("Luas Dari Trapesium : %v\n", luas)
 }
+gi
